@@ -6,3 +6,4 @@
   console.log(chalk.yellow("Package berhasil digunakan!"));
 })();
 console.log("Perubahan pertama di Git!");
+Fitur baru sedang dikembangkan.
