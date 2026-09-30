@@ -7,5 +7,5 @@
 })();
 console.log("Perubahan pertama di Git!");
 Fitur baru sedang dikembangkan.
-console.log("Perubahan dari GitHub!");
+console.log("Fitur sedang dikembangkan oleh Branch Master.");
 // latihan git diff
