@@ -8,3 +8,4 @@
 console.log("Perubahan pertama di Git!");
 Fitur baru sedang dikembangkan.
 console.log("Perubahan dari GitHub!");
+// latihan git diff
