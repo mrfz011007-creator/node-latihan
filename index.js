@@ -5,3 +5,4 @@
   console.log(chalk.blue("Saya sedang belajar npm."));
   console.log(chalk.yellow("Package berhasil digunakan!"));
 })();
+console.log("Perubahan pertama di Git!");
